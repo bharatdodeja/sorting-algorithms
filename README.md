@@ -1,5 +1,6 @@
-# sorting-algorithms
 Sorting Algorithms in Data Structure
+
+References:
 
 Tutorials Point - Sorting Techniques
 https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
